@@ -6,4 +6,4 @@
 
 🔧 My versatile toolbox includes Next.js, React.js, Node.js, Python, JavaScript, TypeScript, Express.js, MongoDB, SQL, and even dipping my toes into machine learning. I love to learn, experiment, and turn lines of code into meaningful impact
 
-📬 Let's connect and collaborate! Feel free to explore my repositories and reach out to me for any tech-related discussions or projects. Together, we can build the future one line of code at a time."
+📬 Let's connect and collaborate! Please feel free to explore my repositories and reach out to me for any tech-related discussions or projects. Together, we can build the future one line of code at a time.
